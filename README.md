@@ -2,7 +2,8 @@
 
 # Merhaba Ziyaretçi! 👋😃
 
-## 🌱 Adım Bilal. Ben, yazılım dünyasına SOLID prensipler çerçevesinde C# ile giriş yapmış ve kendini geliştiren bir yazılımcıyım.
+## 🌱 Adım Bilal.
+  ##    Yazılım dünyasına SOLID prensipler çerçevesinde C# ile giriş yapmış ve kendini geliştiren bir yazılımcıyım.
 
 # PROFILE BANNER
 
