@@ -1,20 +1,21 @@
+<p align="center"> *Projelere yıldız vererek desteğinizi belirtebilirsiniz.* </p>
+
 # Merhaba Ziyaretçi! 👋😃
 
-🌱 Adım Bilal. Ben yazılım dünyasına SOLID prensipler çerçevesinde C# ile giriş yapmış ve kendini geliştiren bir yazılımcıyım.
+## 🌱 Adım Bilal. Ben, yazılım dünyasına SOLID prensipler çerçevesinde C# ile giriş yapmış ve kendini geliştiren bir yazılımcıyım.
 
-PROFILE BANNER
+# PROFILE BANNER
 
 <img src="https://github-readme-stats.vercel.app/api?username=bigidirmik&count_private=true&show_icons=true&theme=nightowl">
 
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=bigidirmik)](https://GitHub.com/bigidirmik)
 
-### 🎓 Yüksek standartlardaki eğitimi ve Core katmanı değteği için Sayın Engin Demiroğ'a teşekkürler!
+🎓 Yüksek standartlardaki eğitimi ve Core katmanı değteği için Sayın Engin Demiroğ'a teşekkürler!
 https://github.com/engindemirog
 
-### 🔭 Eğitimin niteliği gereği; ödev paylaşımı konusunda içeriklerinden faydalandığım arkadaşlara teşekkürler.
+🔭 Eğitimin niteliği gereği; ödev paylaşımı konusunda içeriklerinden faydalandığım arkadaşlara teşekkürler.
 
-https://github.com/bigidirmik?tab=followers
 <!--
 **bigidirmik/bigidirmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center"> *Projelere yıldız vererek desteğinizi belirtebilirsiniz.* </p>-->
+<!-- -->
