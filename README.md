@@ -1,4 +1,4 @@
-<p align="center"> *Projelere yıldız vererek desteğinizi belirtebilirsiniz.* </p>
+<p align="center"> Projelere yıldız vererek desteğinizi belirtebilirsiniz. </p>
 
 # Merhaba Ziyaretçi! 👋😃
 
