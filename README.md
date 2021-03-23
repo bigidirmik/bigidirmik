@@ -1,5 +1,3 @@
-<p align="center"> *Yıldız vererek desteğinizi belirtebilirsiniz.* </p>
-
 # Merhaba Ziyaretçi! 👋😃
 
 🌱 Adım Bilal. Ben yazılım dünyasına SOLID prensipler çerçevesinde C# ile giriş yapmış ve kendini geliştiren bir yazılımcıyım.
@@ -9,9 +7,11 @@ https://github.com/bigidirmik?tab=followers
 [Github visitors](https://visitor-badge.glitch.me/badge?page_id=bigidirmik.visitor-badge)
 
 
-### Yüksek standartlardaki eğitimi ve Core katmanı değteği için Sayın Engin Demiroğ'a teşekkürler!
+### 🎓 Yüksek standartlardaki eğitimi ve Core katmanı değteği için Sayın Engin Demiroğ'a teşekkürler!
 https://github.com/engindemirog
+
 ### 🔭 Eğitimin niteliği gereği; ödev paylaşımı konusunda oluşan komünite ve içeriklerinden faydalandığım arkadaşlara teşekkürler.
+
 
 <!--
 **bigidirmik/bigidirmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <p align="center"> *Projelere yıldız vererek desteğinizi belirtebilirsiniz.* </p>-->
