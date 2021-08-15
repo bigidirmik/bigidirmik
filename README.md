@@ -8,7 +8,7 @@
 # PROFILE BANNER
 
 <img src="https://github-readme-stats.vercel.app/api?username=bigidirmik&count_private=true&show_icons=true&theme=nightowl">
-
+<img src="https://github-readme-stats.vercel.app/api?username=bigidirmik&count_private=true&show_icons=true&theme=nightowl">
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=bigidirmik)](https://GitHub.com/bigidirmik)
 
