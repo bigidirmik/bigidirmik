@@ -11,7 +11,7 @@
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=bigidirmik)](https://GitHub.com/bigidirmik)
 
-🎓 Yüksek standartlardaki eğitimi ve Core katmanı değteği için Sayın Engin Demiroğ'a teşekkürler!
+🎓 Yüksek standartlardaki eğitimi için Sayın Engin Demiroğ'a teşekkürler!
 https://github.com/engindemirog
 
 🔭 Eğitimin niteliği gereği; ödev paylaşımı konusunda içeriklerinden faydalandığım arkadaşlara teşekkürler.
